@@ -1,4 +1,4 @@
-#include <jarvis.h>
+#include <jarvis.h>//Include nessary header file (Author add all nessary header in a singal header file like jarvis.h)
 int x = 20, gx = 574;
 char pas[6];
 int pasword_check()
